@@ -1,7 +1,5 @@
 .footer{
-    background-color: #495567;
-    width: 1140px;
-    height: 300px;
+    margin-top: 307px;
     color: #FFFFFF;
 .footer__text {
     height: 96px;
@@ -14,7 +12,38 @@
     letter-spacing: -2.14286px;
     margin-top: 102px;
     margin-left: 165px;
+    margin-bottom: 102px;
     margin-right: 336px;
-
 }
+.footer__small-div {
+    background-color: white;
+    margin-top: 122px;
+    border-style: solid;
+    color: #495567;
+    cursor: pointer;
+    border: none;
+    width: 159px;
+    height: 56px;
+    margin-right: 18px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-top: 15px;
+}
+.footer__small-text {
+    padding-left: 30px;
+    padding-top: 2px;
+}
+.footer__small__texts {
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: -0.446429px;
+    color: #495567;
+}
+
+.footer__img {
+    cursor: pointer;
+}
+
+
+
 }
