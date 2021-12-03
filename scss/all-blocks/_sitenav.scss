@@ -1,0 +1,23 @@
+.sitenav{
+    .sitenav__list-ul {
+        display: flex;
+    }
+    .sitenav__item1{
+        margin-left: 58px;
+        margin-top: 36px;
+        list-style: none;
+        text-decoration: none;
+        cursor: pointer;
+        color: #939CAA;
+    }
+    .sitenav__item{
+        margin-left: 59px;
+        margin-top: 36px;
+        list-style: none;
+        text-decoration: none;
+        cursor: pointer;
+        color: #939CAA;
+        margin-left: 32px;
+    }
+
+}

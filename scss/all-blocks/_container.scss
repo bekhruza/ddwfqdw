@@ -1,0 +1,203 @@
+.container {
+    width: 100%;
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.container{
+    .container__list {
+        margin-top: 40px;
+    }
+.container__list-ul{
+    display: flex;
+
+}
+.container__text1{
+    font-size: 24px;
+    margin-left: 150px;
+    font-weight: 700;
+    line-height: 28px;
+    list-style: none;
+}
+.container__text{
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 150px;
+    line-height: 28px;
+    list-style: none;
+}
+container__small-foot{
+    padding-right: 30px;
+}
+container__large-texts{
+    margin-left: 165px;
+    color: #939CAA;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 400;
+}
+container__large-texts1 {
+    margin-left: 30px;
+    color: #939CAA;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 400;
+}
+container__large-texts1 {
+    margin-left: 30px;
+    color: #939CAA;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+}
+
+    .button-Scootin {
+        color: #FFFFFF;
+        background-color: #FCB72B;
+        padding: 14px 39px;
+        cursor: pointer;
+        border: none;
+        width: 180px;
+        height: 53px;
+        margin-left: 261px;
+        margin-top: 40px;
+    }
+
+
+    .list {
+        display: flex;
+        .list__small {
+            margin-top: 266px;
+        }
+        .list__text {
+            font-size: 48px;
+            font-weight: 700;
+            font-family: Space Mono;
+            line-height: 48px;
+            width: 445px;
+            height: 96px;
+            color: #495567;
+
+        }
+        .list__alottexts {
+            color: #939CAA;
+            height: 100px;
+            width: 445px;
+            left: 165px;
+            top: 1583px;
+            border-radius: nullpx;
+
+        }
+        .list__button {
+            color: #FFFFFF;
+            background-color: #FCB72B;
+            padding: 14px 39px;
+            cursor: pointer;
+            border: none;
+            width: 180px;
+            height: 53px;
+            display: flex;
+            margin-top: 40px;
+        }
+        .list__img {
+            border-radius: 220px;
+            margin-top: 200px;
+            margin-left: 83px;
+            position: absolute;
+
+            background-image: url(../../images/Bitmap.png )
+
+        }
+        .list__img-lines{
+            margin-top: 560px;
+            position: absolute;
+        }
+        .list__img-line {
+            margin-top: 500px;
+            position: absolute;
+            margin-left: 25px;
+        }
+        .list__img-line2 {
+            position: absolute;
+            margin-top: 230px;
+            margin-left: 25px;
+        }
+        .list__img-line3 {
+            position: absolute;
+            margin-top: 300px;
+            margin-left: 370px;
+        }
+
+        .lists__two {
+            margin-left: 700px;
+            margin-top: 226px;
+        }
+
+    }
+.lists {
+    display: flex;
+    .lists__small {
+        margin-top: 266px;
+    }
+    .lists__text {
+        font-size: 48px;
+        font-weight: 700;
+        font-family: Space Mono;
+        line-height: 48px;
+        width: 445px;
+        height: 96px;
+        color: #495567;
+
+    }
+    .lists__alottexts {
+        color: #939CAA;
+        height: 100px;
+        width: 445px;
+        left: 165px;
+        top: 1583px;
+        border-radius: nullpx;
+
+    }
+    .lists__button {
+        color: #FFFFFF;
+        background-color: #FCB72B;
+        padding: 14px 39px;
+        cursor: pointer;
+        border: none;
+        width: 180px;
+        height: 53px;
+        display: flex;
+        margin-top: 40px;
+    }
+    .lists__img {
+        border-radius: 220px;
+        margin-top: 200px;
+        margin-left: 83px;
+        position: absolute;
+        background-image: url(../../images/page.png )
+
+    }
+    .lists__img-lines{
+        margin-top: 560px;
+        position: absolute;
+    }
+    .lists__img-line {
+        margin-top: 500px;
+        position: absolute;
+        margin-left: 25px;
+    }
+
+    .lists__img-liness {
+        position: absolute;
+        margin-top: 350px;
+        margin-left: 405px;
+    }
+    .lists__img-lines {
+        position: absolute;
+        margin-top: 413px;
+        margin-left: 358px;
+    }
+
+}

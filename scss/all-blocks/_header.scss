@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    .header__list{
+      padding-top: 36px;
+    }
+    .header__div-small{
+        display: flex;
+    }
+
+    .header__scoot-img {
+        cursor: pointer;
+        margin-top: 47px;
+        flex-shrink: 0;
+
+    }
+    .header__button {
+        color: #FFFFFF;
+        background-color: #FCB72B;
+        padding: 14px 39px;
+        cursor: pointer;
+        border: none;
+        width: 180px;
+        height: 53px;
+        margin-left: 511px;
+        margin-top: 30px;
+    }
+}
+
+.list {
+    display: flex;
+    color: #939CAA;
+    flex-wrap: wrap;
+}
+
+.sitenav__item {
+    max-width: 350px;
+    font-size: 15px;
+    list-style: none;
+    margin-left: 32px;
+
+
+}
+.sitenav__item2 {
+    margin-left: 58px;
+    font-size: 15px;
+    list-style: none;
+    margin-left: 10px;
+}
