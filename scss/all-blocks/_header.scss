@@ -1,6 +1,6 @@
 .header{
     display: flex;
-    .header__list{
+    .header__list1{
       padding-top: 36px;
     }
     .header__div-small{
@@ -26,11 +26,7 @@
     }
 }
 
-.list {
-    display: flex;
-    color: #939CAA;
-    flex-wrap: wrap;
-}
+
 
 .sitenav__item {
     max-width: 350px;

@@ -444,6 +444,17 @@ img {
   margin-left: 10px;
 }
 
+.last .last__big-list {
+  background-color: #333A44;
+  color: #939CAA;
+}
+
+.last .last__list-ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .container {
   width: 100%;
   max-width: 1150px;
@@ -808,5 +819,9 @@ img {
 
 .footer .footer__img {
   cursor: pointer;
+}
+
+.header__list {
+  background-color: #495567;
 }
 /*# sourceMappingURL=main.css.map */

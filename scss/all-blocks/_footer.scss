@@ -1,13 +1,18 @@
 .footer{
     margin-top: 307px;
     color: #FFFFFF;
-.footer__text {
+.footer__big-list {
+    color: white;
+    background-color: #333A44;
+    width: 1440px;
     height: 96px;
-    width: 415px;
+}
+.footer__text {
     left: 1068px;
     top: 146px;
     border-radius: nullpx;
     font-size: 48px;
+    cursor: pointer;
     line-height: 48px;
     letter-spacing: -2.14286px;
     margin-top: 102px;
@@ -31,7 +36,6 @@
 }
 .footer__small-text {
     padding-left: 30px;
-    padding-top: 2px;
 }
 .footer__small__texts {
     font-size: 10px;
@@ -43,7 +47,15 @@
 .footer__img {
     cursor: pointer;
 }
-
-
+.footer__last-div1{
+    background-color: #333A44;
+    margin-right: 165px;
+    margin-top: 122px;
+    border-style: solid;
+    border: none;
+    width: 159px;
+    height: 56px;
+    display: flex;
+}
 
 }
